@@ -1,0 +1,52 @@
+[
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "username": "johndoe",
+    "lastSeen": "2025-04-14T15:30:45"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "username": "janedoe",
+    "lastSeen": "2025-04-15T09:12:33"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "mike_smith",
+    "lastSeen": "2025-04-13T23:59:59"
+  },
+  {
+    "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+    "username": "sarah_jones",
+    "lastSeen": "2025-04-10T08:45:12"
+  },
+  {
+    "id": "6ba7b811-9dad-11d1-80b4-00c04fd430c8",
+    "username": "alex_parker",
+    "lastSeen": "2025-04-15T00:01:45"
+  },
+  {
+    "id": "6ba7b812-9dad-11d1-80b4-00c04fd430c8",
+    "username": "emma_wilson",
+    "lastSeen": "2025-04-14T17:23:10"
+  },
+  {
+    "id": "6ba7b813-9dad-11d1-80b4-00c04fd430c8",
+    "username": "robert_johnson",
+    "lastSeen": "2025-04-08T12:30:00"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
+    "username": "lisa_brown",
+    "lastSeen": "2025-04-15T10:45:19"
+  },
+  {
+    "id": "6ba7b815-9dad-11d1-80b4-00c04fd430c8",
+    "username": "david_miller",
+    "lastSeen": "2025-04-11T14:20:35"
+  },
+  {
+    "id": "6ba7b816-9dad-11d1-80b4-00c04fd430c8",
+    "username": "olivia_taylor",
+    "lastSeen": "2025-04-12T19:05:27"
+  }
+]
